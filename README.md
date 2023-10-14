@@ -1,1 +1,2 @@
-# py_chat_bot_api
+# pyvcroid2
+Python Library to Access to Core DLL of VOICEROID2
